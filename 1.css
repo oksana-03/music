@@ -1,0 +1,35 @@
+body{
+  background: url(5.jpg);  
+}
+h1{
+    color: rgb(126, 28, 4);
+    text-align: center;
+}
+a{
+    color: rgb(132, 72, 3);
+}
+video{
+    width: 500px;
+   display: flex;
+}
+
+.a1{
+    display: flex;
+    margin-top: -450px;
+    margin-left: 330px;
+}
+.a2{
+    display: flex;
+    margin-top: -450px;
+    margin-left: 330px;
+}
+.a3{
+    display: flex;
+    margin-top: -450px;
+    margin-left: 330px;
+}
+.a4{
+    display: flex;
+    margin-top: -450px;
+    margin-left: 330px;
+}
